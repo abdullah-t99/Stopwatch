@@ -1,12 +1,12 @@
 body {
-  background-color: aqua;
+  background: rgb(0, 179, 255);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
-h1 {
-  font-weight: bold;
-  color: red;
-}
-
-h3 {
-  color: blueviolet;
+.wrapper {
+  width: 600px;
+  margin: 100px 500px;
+  color: #fff;
+  text-align: center;
 }
