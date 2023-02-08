@@ -1,11 +1,11 @@
 body {
-  background: rgb(0, 179, 255);
+  background: royalblue;
   font-family: "HelveticaNeue-Light", sans-serif;
 }
 
 .wrapper {
   width: 600px;
   margin: 100px 500px;
-  color: #fff;
+  color: peachpuff;
   text-align: center;
 }
